@@ -4,3 +4,4 @@ Nordic semi
 ## Host
 ## Controller
 ## HCI
+## DTM
