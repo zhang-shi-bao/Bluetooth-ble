@@ -1,5 +1,5 @@
 # Bluetooth-ble
-BLE技术总结
+Nordic semi
 
 ## Host
 ## Controller
